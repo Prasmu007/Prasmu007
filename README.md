@@ -124,3 +124,6 @@ I build systems to **automate, optimize, and eventually model it quantitatively.
 
 ⭐ *If you find my work interesting, consider following — this is just the beginning.*
 
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Prasmu007/Prasmu007/blob/output/github-contribution-grid-snake.svg)
